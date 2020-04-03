@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Gast
+comment1.params=anzahl\ preis
+comment1.target=Gast(int,\ double)
+comment2.params=
+comment2.target=double\ getRech()
+numComments=3
